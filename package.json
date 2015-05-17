@@ -1,0 +1,18 @@
+{
+  "name": "marty-devtools-observer",
+  "version": "0.10.0",
+  "main": "index.js",
+  "author": "James Hollingworth",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/martyjs/marty-devtools-observer/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/martyjs/marty-devtools-observer/issues"
+  },
+  "dependencies": {
+    "lodash": "^3.8.0"
+  }
+}
